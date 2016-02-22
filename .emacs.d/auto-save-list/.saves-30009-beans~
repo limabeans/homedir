@@ -1,0 +1,10 @@
+/run/user/1000/gvfs/smb-share:server=192.168.162.162,share=vagrant/code/repo/pintos/src/threads/thread.c
+/run/user/1000/gvfs/smb-share:server=192.168.162.162,share=vagrant/code/repo/pintos/src/threads/#thread.c#
+/run/user/1000/gvfs/smb-share:server=192.168.162.162,share=vagrant/code/repo/personal/hw3/mm_test.c
+/run/user/1000/gvfs/smb-share:server=192.168.162.162,share=vagrant/code/repo/personal/hw3/#mm_test.c#
+/run/user/1000/gvfs/smb-share:server=192.168.162.162,share=vagrant/code/repo/personal/hw3/mm_alloc.c
+/run/user/1000/gvfs/smb-share:server=192.168.162.162,share=vagrant/code/repo/personal/hw3/#mm_alloc.c#
+/run/user/1000/gvfs/smb-share:server=192.168.162.162,share=vagrant/code/repo/personal/hw3/Makefile
+/run/user/1000/gvfs/smb-share:server=192.168.162.162,share=vagrant/code/repo/personal/hw3/#Makefile#
+/run/user/1000/gvfs/smb-share:server=192.168.162.162,share=vagrant/code/repo/personal/hw3/mm_alloc.h
+/run/user/1000/gvfs/smb-share:server=192.168.162.162,share=vagrant/code/repo/personal/hw3/#mm_alloc.h#

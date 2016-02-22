@@ -1,0 +1,2 @@
+/run/user/1000/gvfs/smb-share:server=192.168.162.162,share=vagrant/code/personal/hw1/shell.c
+/run/user/1000/gvfs/smb-share:server=192.168.162.162,share=vagrant/code/personal/hw1/#shell.c#
